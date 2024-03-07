@@ -1,0 +1,18 @@
+body{
+    background-color: #F4EDCC;
+    font-family: 'Helvetica';
+    color: #070F2B
+}
+
+p{
+    color: #070F2B;
+    font-family: 'Helvetica';
+
+}
+
+header{
+    text-align: center;
+    padding-top: 3em;
+    background-color: whitesmoke;
+    padding-bottom: 3em;
+}
